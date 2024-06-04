@@ -17,5 +17,7 @@ public class FizzBuzzContext : DbContext // DbContext is the database
 
 }
 
+// dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+// dontnet add package Microsoft.EntityFrameworkCore.Design
 // dotnet add package Microsoft.EntityFrameworkCore.InMemory
 // dotnet add package Microsoft.EntityFrameworkCore.SqlServer
