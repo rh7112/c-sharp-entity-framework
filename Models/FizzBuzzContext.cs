@@ -16,3 +16,6 @@ public class FizzBuzzContext : DbContext // DbContext is the database
     // Object is FizzBuzzItem, the mapper is FizzBuzzContext
 
 }
+
+// dotnet add package Microsoft.EntityFrameworkCore.InMemory
+// dotnet add package Microsoft.EntityFrameworkCore.SqlServer
